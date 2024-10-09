@@ -1,4 +1,4 @@
-# High Performance computing experiment results
+# High performance computing experiment results
 
 For a high performance computing experiment project, generally different experiments are performed to analyze the variation of the execution time, speedup, and the efficieny with the number of threads and the problem size, which is generally the length of an array or a matrix for the purpose of high performance computing. 
 
