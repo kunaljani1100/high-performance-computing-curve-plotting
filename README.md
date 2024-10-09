@@ -9,3 +9,10 @@ This tool can provide a graphical approach to how we can analyze the performance
 ## Link to read article in detail
 
 https://link.springer.com/article/10.1007/s11227-021-03896-0#Abs1
+
+## Steps to run the code
+
+1. Download the python notebook file and upload it in a new python notebook in google research.
+2. Upload the file `combines_logs.csv` to the python notebook in google colab.
+3. Click the play button in the gutter to run the code and print the graphs.
+4. The graphs can be saved as an image locally and can be used in reports.
